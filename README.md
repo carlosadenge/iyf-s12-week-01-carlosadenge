@@ -7,7 +7,7 @@
 🌐 [https://carlosadenge.github.io/iyf-s12-week-01-carlosadenge](https://carlosadenge.github.io/iyf-s12-week-01-carlosadenge)
 
 ## About This Project
-This repository contains my Week 1 assignment for the IYF Weekend Academy.  
+This repository contains my Week 1 assignment for the IYF Wecan Academy.  
 I built a multi-page personal portfolio using semantic HTML and practiced accessibility, DevTools exploration, and basic web structure.
 
 ## Pages
