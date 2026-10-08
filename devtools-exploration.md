@@ -46,7 +46,6 @@
    - A text/search input field  
    - A submit button  
 
-3. **Screenshot of the Elements panel**  
    
 
 ---
