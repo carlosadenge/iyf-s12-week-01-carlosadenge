@@ -14,4 +14,4 @@
 - Ensured proper heading order: one `<h1>`, then `<h2>`, then `<h3>`.
 - Made all link text descriptive (e.g. “View my projects” instead of “click here”).
 - Verified every form input has a matching `<label for="...">`.
-- Used semantic HTML elements (`header`, `nav`, `main`, `footer`, `article`, etc.).
+- Used semantic HTML elements (`header`, `nav`, `main`, `footer`, `article`).
