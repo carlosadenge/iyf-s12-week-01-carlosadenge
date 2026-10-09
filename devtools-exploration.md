@@ -15,7 +15,7 @@
    Example Domain
 
 3. **How many headings are there?**  
-   There is **1** heading — an `<h1>` that says “Example Domain”.
+   There is **1** heading — “Example Domain”.
 
 ---
 
@@ -28,7 +28,7 @@
    The search bar is an `<input type="search">` placed inside a `<form>` element. It also has a search button.
 
 3. **What happens when you hover over links (check the styles)?**  
-   When you hover over links, the text color usually changes and an underline appears. This is controlled by the CSS `:hover` pseudo-class.
+   Shadow appears behind the texts. 
 
 ---
 
