@@ -10,7 +10,7 @@
 
 ## How I Fixed Them
 
-- Added meaningful `alt` text to every image.
+- I'm still stranded on fixing this.
 - Ensured proper heading order: one `<h1>`, then `<h2>`, then `<h3>`.
 - Made all link text descriptive (e.g. “View my projects” instead of “click here”).
 - Verified every form input has a matching `<label for="...">`.
