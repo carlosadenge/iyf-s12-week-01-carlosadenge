@@ -44,7 +44,11 @@
 2. **Find a form element and list its inputs**  
    The search form in the header contains:  
    - A text/search input field  
-   - A submit button  
+   - A submit button
+  
+3. **Take a screenshot of the Elements panel**
+    <img width="540" height="408" alt="12 10 2026_21 32 51_REC" src="https://github.com/user-attachments/assets/d2bb5ac0-9139-4cfe-a0e7-e2f2c32b7a15" />
+
 
    
 
